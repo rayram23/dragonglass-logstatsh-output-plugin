@@ -1,0 +1,1 @@
+# dragonglass-logstatsh-output-plugin
